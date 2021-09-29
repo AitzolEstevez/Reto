@@ -195,9 +195,9 @@ a:hover{
    
 /*Fin tabs*/
 
-.fondo {
+.fondo { 
+  background-image: url(../imagenes/fondo.jpg);
   height: 800px;
-  background-image: url(/imagenes/fondo.jpg);
 }
 
 /*Fin zona del medio*/

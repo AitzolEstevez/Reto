@@ -92,7 +92,7 @@ a:hover{
 
 
 .cartel{
-    
+    background-image: url(../imagenes/img.jpg);
     font-size: 20px;
     letter-spacing: -0.8px;
     word-spacing: 2px;
@@ -102,12 +102,10 @@ a:hover{
     font-style: normal;
     font-variant: normal;
     text-transform: none;
-    background-image: url(/imagenes/img.jpg);
     text-align: center;
     background-repeat: no-repeat;
     align-content: center;
     background-size: cover;
-
 }
 
 footer{
